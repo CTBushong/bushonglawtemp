@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": ".next/static/chunks/pages",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
